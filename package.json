@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "Sunflower Farmers contract",
   "author": "developer@sunflower-farmers.com",
-  "homepage": ".",
+  "homepage": "https://ercimen.github.io/",
   "dependencies": {
     "@openzeppelin/contracts": "3.3.0",
     "@truffle/hdwallet-provider": "1.1.0",
